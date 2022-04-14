@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @chuhongkyu
+#👋 Hi, I’m @chuhongkyu
 - 👀 I’m interested in Interactive Web.
 - 🐈 I have created several game apps and homepages.
 - 🏢 I am currently working at Mapo-gu Office(It is a district office in Korea).
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to connect "chuhongkyu@gmail.com...
-<img src="https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png  width="200" height="400"/>
