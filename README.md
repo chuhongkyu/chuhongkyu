@@ -1,4 +1,4 @@
-#👋 Hi, I’m @chuhongkyu
+#👋 Hi, I’m chuhongkyu
 - 👀 I’m interested in Interactive Web.
 - 🐈 I have created several game apps and homepages.
 - 🏢 I am currently working at Mapo-gu Office(It is a district office in Korea).
