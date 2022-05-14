@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=MR_CHU&fontAlign=70&rotate=13&fontAlignY=25&desc=환영해요%20미스터%20is%20추%20개발.&descAlign=70.&descAlignY=44)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome_Mr_chu!&fontAlign=80&fontAlignY=40&color=gradient)
 # Hi, I’m chuhongkyu~
 - I’m interested in Interactive Web.
 - I want to be a super front end.
