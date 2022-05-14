@@ -2,7 +2,7 @@
 # Hi, I’m chuhongkyu~
 - I’m interested in Interactive Web.
 - I want to be a super front end.
-- -✉ chuhongkyu@gmail.com
+- ✉ chuhongkyu@gmail.com
 --------------
 # Work
 - Mapo-gu Office
