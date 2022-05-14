@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&text=환영해요&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=150&section=header&text=welcom_Mr_chu&fontSize=20)
 
 --------------
 # Hi, I’m chuhongkyu~
@@ -10,5 +10,4 @@
 - Mapo-gu Office
 --------------
 ![Mr.chu's github stats](https://github-readme-stats.vercel.app/api?username=chuhongkyu&show_icons=true&theme=maroongold)
-
 
