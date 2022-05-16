@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome to My-page!&fontAlign=60&fontAlignY=35&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&nbsp;to&nbsp;My&nbsp;Page!&fontAlign=60&fontAlignY=35&color=gradient)
 # Hi, I’m chu_hong_kyu~
 - I’m interested in Interactive Web.
 - I want to be a super front end.
