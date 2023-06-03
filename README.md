@@ -3,7 +3,7 @@
 - I’m interested in Interactive Web.
 - I want to be a super Front_end.
 - ✉ chuhongkyu@gmail.com
-- [homePage](https://chuhongkyu.github.io/Mr_chu_HomePage/)
+- [homePage](https://mrchu.netlify.app/)
 --------------
 # 💼 Work
 - 🏣 Mapo-gu Office
