@@ -3,7 +3,9 @@
 - I’m interested in Interactive Web.
 - I want to be a super Front_end.
 - ✉ chuhongkyu@gmail.com
-- [homePage](https://mrchu.netlify.app/)
+- [portfolio - https://mrchu.netlify.app/](https://mrchu.netlify.app/)
+- [three.js - https://chuhongkyu.github.io/interact_3D/](https://chuhongkyu.github.io/interact_3D/)
+- [full stack - https://we-t-ott.vercel.app/home](https://we-t-ott.vercel.app/home)
 --------------
 # 💼 Work
 - 🏣 Mapo-gu Office
