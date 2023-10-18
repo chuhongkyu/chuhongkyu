@@ -1,11 +1,12 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&nbsp;to&nbsp;My&nbsp;Page!&fontAlign=55&fontAlignY=35&color=gradient) -->
-# 🖐 Hi, I’m chu_hong_kyu~
-- I’m interested in Interactive Web.
-- I want to be a super Front_end.
+# 🖐 안녕하세요, 
+사용자 경험을 항상 고려하는 최적화와 시각적인 부분을 모두 고려하는 개발자 추홍규입니다.
 - ✉ chuhongkyu@gmail.com
-- [portfolio - https://mrchu.netlify.app/](https://mrchu.netlify.app/)
-- [three.js - https://chuhongkyu.github.io/interact_3D/](https://chuhongkyu.github.io/interact_3D/)
-- [full stack - https://we-t-ott.vercel.app/home](https://we-t-ott.vercel.app/home)
+- [R3F 강사 패스트 캠퍼스](https://fastcampus.co.kr/dev_online_3dinteractive)
+- [NEXT.js 풀스텍 사이트](https://we-t-ott.vercel.app/home)
+- [이력 설명 사이트](https://mrchu.netlify.app/)
+- [three.js 사이트](https://chuhongkyu.github.io/interact_3D/)
+  
 --------------
 # 💼 Work
 - 🏣 Mapo-gu Office
