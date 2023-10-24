@@ -4,7 +4,7 @@
 - chuhongkyu@gmail.com
 - [R3F 강사 패스트 캠퍼스](https://fastcampus.co.kr/dev_online_3dinteractive)
 - [NEXT.js 풀스텍 사이트](https://we-t-ott.vercel.app/home)
-- [이력 설명 사이트](https://mrchu.netlify.app/)
+- [이력 설명 사이트](https://mrchu.netlify.app/home/resume)
 - [three.js 사이트](https://chuhongkyu.github.io/interact_3D/)
   
 --------------
