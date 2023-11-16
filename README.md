@@ -2,8 +2,8 @@
 # 🍀 안녕하세요, 
 ## 사용자 경험을 향상 시키기 위해 항상 고민하는 개발자 추홍규입니다.
 - chuhongkyu@gmail.com
-- [이력 설명 사이트](https://mrchu.netlify.app/home/resume)
-- [NEXT.js 풀스텍 사이트](https://we-t-ott.vercel.app/home)
+- [포트폴리오 (react,notion,node.js)](https://mrchu.netlify.app/home/resume)
+- [게시판 사이트 (next.js, mongoDB)](https://we-t-ott.vercel.app/home)
 
 
 - [R3F 강사 패스트 캠퍼스](https://fastcampus.co.kr/dev_online_3dinteractive)
