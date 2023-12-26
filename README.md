@@ -7,9 +7,9 @@
 
 
 - [R3F 강사 패스트 캠퍼스](https://fastcampus.co.kr/dev_online_3dinteractive)
-  - [R3F 사이트](https://mr-chu-weather.netlify.app/)
-  - [R3F 사이트](https://mr-chu-car-web.netlify.app/)
-  - [three.js 사이트](https://chuhongkyu.github.io/interact_3D/)
+  - [파트2 - 날씨 API](https://mr-chu-weather.netlify.app/)
+  - [파트3 - 자동차 방향키](https://mr-chu-car-web.netlify.app/)
+  - [마리오 '개발자의 삶' (three.js)](https://chuhongkyu.github.io/interact_3D/)
   
 --------------
 # 🍀 Work
