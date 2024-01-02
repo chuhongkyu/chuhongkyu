@@ -2,14 +2,18 @@
 # 🍀 안녕하세요, 
 ## 사용자 경험을 향상 시키기 위해 항상 고민하는 개발자 추홍규입니다.
 - chuhongkyu@gmail.com
-- [포트폴리오 (react,notion,node.js) 이력서 사이트](https://mrchu.netlify.app/home/resume)
-- [게시판 사이트 (next.js, mongoDB)](https://we-t-ott.vercel.app/home)
+- [포트폴리오 모음] (react,notion,node.js) 이력서 사이트](https://mrchu.netlify.app/home/resume)
+- [WeT 게시판형] (next.js, mongoDB)](https://we-t-ott.vercel.app/home)
 
 
-- [R3F 강사 패스트 캠퍼스](https://fastcampus.co.kr/dev_online_3dinteractive)
+- [R3F(react-three-fiber) 강사] (패스트 캠퍼스)](https://fastcampus.co.kr/dev_online_3dinteractive)
   - [파트2 - 날씨 API](https://mr-chu-weather.netlify.app/)
   - [파트3 - 자동차 방향키](https://mr-chu-car-web.netlify.app/)
   - [마리오 '개발자의 삶' (three.js)](https://chuhongkyu.github.io/interact_3D/)
+
+-------------
+# 🍀 블로그
+- https://velog.io/@hongkyu_mr_chu/posts
   
 --------------
 # 🍀 Work
