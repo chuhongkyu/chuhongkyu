@@ -3,7 +3,7 @@
 ## 사용자 경험을 향상 시키기 위해 항상 고민하는 개발자 추홍규입니다.
 - chuhongkyu@gmail.com
 - [포트폴리오 모음] (react,notion,node.js) 이력서 사이트](https://mrchu.netlify.app/home/resume)
-- [We-T 게시판형] (next.js, mongoDB)](https://we-t-ott.vercel.app/home)
+- [We-T 게시판형] (next.js, mongoDB)](https://we-t-ott.vercel.app)
 
 
 - [R3F(react-three-fiber) 강사] (패스트 캠퍼스)](https://fastcampus.co.kr/dev_online_3dinteractive)
