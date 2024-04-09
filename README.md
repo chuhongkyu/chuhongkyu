@@ -14,7 +14,7 @@
 --------------
 # 🍀 three.js 관련
 - [마리오 '개발자의 삶' (three.js)](https://chuhongkyu.github.io/interact_3D/)
-- [운전 연습 게임 (NEXT + R3F](https://car-drive-practice.vercel.app/)
+- [운전 연습 게임 (NEXT + R3F)](https://car-drive-practice.vercel.app/)
 --------------
 # 🍀 강사
 - [더 쉽고 편하게 만드는 3D 인터랙티브 웹 개발 :
