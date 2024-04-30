@@ -3,7 +3,6 @@
 ## 사용자 경험을 향상 시키기 위해 항상 고민하는 개발자 추홍규입니다.
 - chuhongkyu@gmail.com
 - [포트폴리오 모음] (react,notion,node.js) 이력서 사이트](https://mrchu.netlify.app/home/resume)
-- [OTT 나눔 플랫폼 We-T 게시판형] (next.js, mongoDB, Dokcer)](http://ott-we-t.com/)
 -------------
 # 🍀 블로그
 - https://velog.io/@hongkyu_mr_chu/posts
