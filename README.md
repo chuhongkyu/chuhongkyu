@@ -2,7 +2,7 @@
 # 🍀 Hello!
 ## I'm Hongkyu Chu, a developer who constantly seeks to improve user experience.
 - 📧 chuhongkyu@gmail.com  
-- 🌐 [Resume Website](https://mrchu.netlify.app/home/resume)
+- 🌐 [Resume](https://mr-chu-home-page.vercel.app/resume)
 
 
 ---
