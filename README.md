@@ -30,7 +30,7 @@
 ---
 
 # 🍀 Projects with Three.js  
-- [Mario: Life of a Developer (Three.js)](https://chuhongkyu.github.io/interact_3D/)  
+- [Mario: Life of a Developer (Three.js)](https://mario-dev-life.vercel.app/)  
 - [Driving Practice Game (Next.js + R3F)](https://car-drive-practice.vercel.app/)
 
 ---
