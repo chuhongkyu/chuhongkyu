@@ -1,0 +1,39 @@
+name: README SVG 다시 굽기
+
+# 헤더 색은 포트폴리오의 DTCG 토큰에서 가져온다. 그쪽 팔레트가 바뀌어도
+# 이 저장소는 모르므로, 주기적으로 다시 구워서 따라가게 한다.
+#
+# 직접 고친 뒤에는 손으로 돌리면 된다 — Actions 탭의 Run workflow.
+
+on:
+  schedule:
+    # 매월 1일 00:10 UTC = 09:10 KST. 노션 동기화와 10분 떨어뜨려 두었다.
+    - cron: "10 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  bake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - run: node script/build-svg.mjs
+
+      - name: 바뀐 게 있으면 커밋
+        run: |
+          if git diff --quiet assets; then
+            echo "팔레트 그대로"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore: 헤더 색 최신화"
+          git push

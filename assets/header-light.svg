@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Hongkyu Chu — Software Engineer, Frontend (3D)">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22c1c3"/>
+      <stop offset="100%" stop-color="#fdbb2d"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="0"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#f2f0eb"/>
+    <path d="M-519.6 0 L0.0 300 M-519.6 0 L-1039.2 300 M-463.6 0 L56.0 300 M-463.6 0 L-983.2 300 M-407.6 0 L112.0 300 M-407.6 0 L-927.2 300 M-351.6 0 L168.0 300 M-351.6 0 L-871.2 300 M-295.6 0 L224.0 300 M-295.6 0 L-815.2 300 M-239.6 0 L280.0 300 M-239.6 0 L-759.2 300 M-183.6 0 L336.0 300 M-183.6 0 L-703.2 300 M-127.6 0 L392.0 300 M-127.6 0 L-647.2 300 M-71.6 0 L448.0 300 M-71.6 0 L-591.2 300 M-15.6 0 L504.0 300 M-15.6 0 L-535.2 300 M40.4 0 L560.0 300 M40.4 0 L-479.2 300 M96.4 0 L616.0 300 M96.4 0 L-423.2 300 M152.4 0 L672.0 300 M152.4 0 L-367.2 300 M208.4 0 L728.0 300 M208.4 0 L-311.2 300 M264.4 0 L784.0 300 M264.4 0 L-255.2 300 M320.4 0 L840.0 300 M320.4 0 L-199.2 300 M376.4 0 L896.0 300 M376.4 0 L-143.2 300 M432.4 0 L952.0 300 M432.4 0 L-87.2 300 M488.4 0 L1008.0 300 M488.4 0 L-31.2 300 M544.4 0 L1064.0 300 M544.4 0 L24.8 300 M600.4 0 L1120.0 300 M600.4 0 L80.8 300 M656.4 0 L1176.0 300 M656.4 0 L136.8 300 M712.4 0 L1232.0 300 M712.4 0 L192.8 300 M768.4 0 L1288.0 300 M768.4 0 L248.8 300 M824.4 0 L1344.0 300 M824.4 0 L304.8 300 M880.4 0 L1400.0 300 M880.4 0 L360.8 300 M936.4 0 L1456.0 300 M936.4 0 L416.8 300 M992.4 0 L1512.0 300 M992.4 0 L472.8 300 M1048.4 0 L1568.0 300 M1048.4 0 L528.8 300 M1104.4 0 L1624.0 300 M1104.4 0 L584.8 300 M1160.4 0 L1680.0 300 M1160.4 0 L640.8 300 M1216.4 0 L1736.0 300 M1216.4 0 L696.8 300 M1272.4 0 L1792.0 300 M1272.4 0 L752.8 300 M1328.4 0 L1848.0 300 M1328.4 0 L808.8 300 M1384.4 0 L1904.0 300 M1384.4 0 L864.8 300 M1440.4 0 L1960.0 300 M1440.4 0 L920.8 300 M1496.4 0 L2016.0 300 M1496.4 0 L976.8 300 M1552.4 0 L2072.0 300 M1552.4 0 L1032.8 300 M1608.4 0 L2128.0 300 M1608.4 0 L1088.8 300 M1664.4 0 L2184.0 300 M1664.4 0 L1144.8 300" stroke="#d4d4d4" stroke-width="1" fill="none" opacity="0.28"/>
+
+    <g opacity="0.85">
+      <path d="M980 70.59658815565646 L1024 96 L980 121.40341184434354 L936 96 Z" fill="#22c1c3"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 -7; 0 0" dur="4.2s" begin="0s"
+        repeatCount="indefinite" calcMode="spline"
+        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" keyTimes="0; 0.5; 1"/>
+    </g>
+    <g opacity="0.7">
+      <path d="M1066 120.59658815565646 L1110 146 L1066 171.40341184434354 L1022 146 Z" fill="#5b8dd9"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 -7; 0 0" dur="4.2s" begin="0.5s"
+        repeatCount="indefinite" calcMode="spline"
+        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" keyTimes="0; 0.5; 1"/>
+    </g>
+    <g opacity="0.8">
+      <path d="M894 120.59658815565646 L938 146 L894 171.40341184434354 L850 146 Z" fill="#f4c430"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 -7; 0 0" dur="4.2s" begin="1s"
+        repeatCount="indefinite" calcMode="spline"
+        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" keyTimes="0; 0.5; 1"/>
+    </g>
+    <g opacity="0.18">
+      <path d="M980 170.59658815565646 L1024 196 L980 221.40341184434354 L936 196 Z" fill="#515151"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 0 -7; 0 0" dur="4.2s" begin="1.5s"
+        repeatCount="indefinite" calcMode="spline"
+        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" keyTimes="0; 0.5; 1"/>
+    </g>
+
+    <!-- 글자는 왼쪽 정렬이다. 뷰어의 시스템 폰트로 그려져서 폭이 기기마다
+         다른데, 가운데 정렬이면 그 차이가 그대로 어긋남으로 보인다. -->
+    <text x="72" y="132" fill="#181818"
+      font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+      font-size="58" font-weight="700" letter-spacing="-1.5">Hongkyu Chu</text>
+
+    <text x="74" y="176" fill="#515151"
+      font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+      font-size="22" font-weight="500" letter-spacing="0.2">Software Engineer, Frontend (3D)</text>
+
+    <rect x="74" y="206" width="132" height="4" rx="2" fill="url(#accent)"/>
+  </g>
+</svg>
