@@ -18,7 +18,7 @@ Mostly working with 3D on the web.
 Two mobile games I build and run on my own.
 
 - **Sticker Slime** — [IOS](https://apps.apple.com/kr/app/sticker-slime/id6670695864) · [Android](https://play.google.com/store/apps/details?id=com.Mr.chu.StickerSlime)
-- **우리말 추측하기** — [IOS](https://apps.apple.com/kr/app/id6816624571) · Android
+- **우리말 추측하기** — [IOS](https://apps.apple.com/kr/app/id6816624571) · [Android](https://play.google.com/store/apps/details?id=com.bookcat.wordgame)
 
 ---
 
