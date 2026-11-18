@@ -35,19 +35,20 @@ Two mobile games I build and run on my own.
 
 **[Building Interactive 3D Web, Easily and Efficiently](https://fastcampus.co.kr/dev_online_3dinteractive)** — FastCampus, 2023.10 ~
 
-From implementation to optimization, with R3F and Three.js.
+From implementation to optimization.
 
 - [Part 2 — Weather API](https://mr-chu-weather.netlify.app/)
 - [Part 3 — Car Direction Keys](https://mr-chu-car-web.netlify.app/)
 
 ## Selected Work
 
-| Project | Notes |
+| Project | What it is |
 |---|---|
-| [Genaimo](https://genaimo.ailive.world/) | Generative-AI motion SaaS. A pipeline that turns AI motion data into animation clips, a real-time 3D scene editor on Three.js, and character retargeting with both automatic and manual paths. |
-| [당근이네](https://www.daangn.com/kr/group/%EB%8B%B9%EA%B7%BC%EC%9D%B4%EB%84%A4-%EC%9C%A0%EC%A0%80-%EB%AA%A8%EC%97%AC%EB%9D%BC-1d9k92dxan78/) | Karrot |
-| [Mario: Life of a Developer](https://mario-dev-life.vercel.app/) | Three.js |
-| [Driving Practice Game](https://car-drive-practice.vercel.app/) | Next.js + R3F |
+| [당근이네](https://www.daangn.com/kr/group/%EB%8B%B9%EA%B7%BC%EC%9D%B4%EB%84%A4-%EC%9C%A0%EC%A0%80-%EB%AA%A8%EC%97%AC%EB%9D%BC-1d9k92dxan78/) | A living world inside Karrot. Users raise a character, tend a rooftop garden, and leave things for each other. |
+| [Genaimo](https://genaimo.ailive.world/) | Generative-AI motion SaaS. Turns AI motion data into animation clips, with a real-time scene editor and character retargeting. |
+| [우리말 추측하기](https://urimal.site) | A daily Korean word-guessing game. One word a day, six tries. |
+| [Mario: Life of a Developer](https://mario-dev-life.vercel.app/) | A side-scrolling résumé you play through. |
+| [Driving Practice Game](https://car-drive-practice.vercel.app/) | A small driving course for practicing turns and parking. |
 
 ---
 
